@@ -33,4 +33,6 @@ It is divided in two parts:
  
     1) Instance Segmentation
     
-    1[](https://github.com/Mohit0928/Computer-Vision/blob/master/deployment/media/seg_vid.mp4)
+    ![](https://media.giphy.com/media/FLXqtPU7mtgldqjG05/giphy.gif)
+    
+    2) Object Detection
