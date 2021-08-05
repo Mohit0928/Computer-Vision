@@ -33,6 +33,4 @@ It is divided in two parts:
  
     1) Instance Segmentation
     
-    ![](https://media.giphy.com/media/FLXqtPU7mtgldqjG05/giphy.gif)
-    
     2) Object Detection
