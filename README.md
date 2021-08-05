@@ -1,4 +1,4 @@
-#Computer Vision Demo
+# Computer Vision Demo
 
 This is a computer vision model deployed in Django framework for object detection, Instance Segmentation, and vehicle speed extraction from video and images.
 I used Detectron 2 to buld this model.
