@@ -34,3 +34,18 @@ It is divided in two parts:
     1) Instance Segmentation
     
     2) Object Detection
+
+## Deployment on local server
+
+cd Computer-Vision/deployment
+
+python manage.py runserver
+
+It has two web app
+
+1) CV for images (cv): It can be deployed at 127.0.0.1:8000/cv/
+2) CV for videos (cv_vid): It can be deployed at 127.0.0.1:8000/cv_vid/
+
+## Requirements
+You need to install Detectron2. You can see [installation instructions here](https://detectron2.readthedocs.io/en/latest/tutorials/install.html)
+
